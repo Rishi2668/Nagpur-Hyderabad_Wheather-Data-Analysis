@@ -1,1 +1,1 @@
-Weather Data Analysis of Nagpur and Hyderabad, fetching data through API endpoint and predicting the next day's weather, given the historical waether data.
+Analyzing the parameters of weather in Nagpur and Hyderabad involves getting data from an API endpoint and using it to predict tomorrow's weather based on historical data and patterns using Linear Regression.
